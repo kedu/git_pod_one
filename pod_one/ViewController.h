@@ -11,5 +11,8 @@
 @interface ViewController : UIViewController
 
 
+- (void)myName;
+
+
 @end
 
